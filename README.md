@@ -2,4 +2,6 @@
 
 A collection of art
 
-I am using github because I don't like the ux of file sharing apps
+Collection 0: A random mix from the NSW Art Gallery (March 2018)
+
+Collection 1: Canadian art from the Art Gallery of Ontario, Toronto (May 2018)
